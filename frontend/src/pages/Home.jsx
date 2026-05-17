@@ -4,7 +4,7 @@ import './Home.css'
 
 const FEATURED = [
   {
-    title: "City Hall, 1938",
+    title: "Cit Hall, 1938",
     category: "Landmarks",
     img: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2013/10/chrome-hacked-story-300x300.jpg"
   },
